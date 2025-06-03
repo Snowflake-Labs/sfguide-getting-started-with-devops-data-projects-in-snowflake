@@ -8,7 +8,7 @@ enable_snowflake_projects = true
 
 [connections.default]
     role = "ATTENDEE_ROLE"
-    account = "REPLACEME"
+    account = "SFSEHOL-SUMMIT25_DATA_PROJECTS_CI_CD_GFRIHY"
     user = "service_user"
     schema = "DEV"
     database = "UTILS"
